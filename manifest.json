@@ -1,0 +1,19 @@
+{
+  "name": "Galeri Kenangan",
+  "short_name": "Galeri",
+  "description": "Galeri foto perjalanan bersama",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a0f0a",
+  "theme_color": "#1a0f0a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "LOGO.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
